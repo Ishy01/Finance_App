@@ -27,11 +27,9 @@ export const Hero = () => {
           Master your data analytics to increase revenue for BTB, BTC, & SASS
           platforms.{" "}
         </p>
-        <div>
-          <button className="bg-[#00df9a] rounded-md font-medium text-black my-6 px-6 py-3">
-            Get Started
-          </button>
-        </div>
+        <button className="bg-[#00df9a] rounded-md font-medium text-black my-6 px-6 py-3 w-[200px] mx-auto">
+          Get Started
+        </button>
       </div>
     </div>
   );
